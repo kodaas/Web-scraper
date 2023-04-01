@@ -1,0 +1,66 @@
+Thesis
+Special Topic in Computing
+Systems analysis and Designs
+introduction to Operating System
+Software Engineering Principles
+Object- Oriented programming language
+Database Systems
+Computer graphics and Visualization
+Project Seminar II
+Project
+Operations Research
+Introduction to Data Science
+Fundamentals of Computer Science
+Artificial Intelligence and Game
+Concepts Of Programming language
+Data Structures and Algorithms
+Compilers Techniques
+Reading Course/Pre-project Seminar I
+Computer Networks and
+Comrnunicaoons
+Bioinformatics
+Special Topics in Computing
+Advanced Computer Graphics
+Advanced Multimedia systems
+Parallel Computing system
+Advanced Multi-agent Systems
+Advanced Numerical Computations II
+Advanced Automata Theo
+Theory of Computation and Comple
+Theory of Programming languages
+Discrete Mathemåiics and Cotilputation II
+Principle of System Des' n
+Advanced Compiler Design
+Advanced-Data warehousing
+Decision Support Systems
+Management and Entrepreneurship
+ICT and Research Methodology
+Research Projects / Dissertation
+Operating Systems
+Advanced Computer Algorithms
+Software Engineering
+Computer Communications and Networks
+Advanced Computer Architecture
+Programming Languages
+Theory of Computation
+Object-Oriented Programming
+Advanced Computer Graphics
+Computer Architecture
+Database Systems
+Artificial Intelligence
+Expert Systems
+Operations Research
+Compiler Design and Construction
+Advanced Topics in Computer Science
+Internet Technology
+Human Computer Interaction
+Digital Signal processing
+Introduction to Quantum Computation
+Mobile and Adaptive Systems
+Electronic Commerce Technologies
+Bioinformatics
+Designing Complex Software Systems
+Computer Organization
+Digital Picture Processing
+Artificial Intelligence
+Advanced Computer Vision
