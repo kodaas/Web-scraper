@@ -528,3 +528,2003 @@ Book 19:
 
 Total Number of Books: 59 
 
+ ********* Check point ************
+
+Topic 1: Thesis 
+URL: https://www.pdfdrive.com/search?q=Thesis&pagecount=100-*&pubyear=2017&searchin=en 
+
+Book 1: 
+	 Name: How to Write a Better Thesis 
+	 ID: 25132067 
+	 Session Id: 9a81fd9070117e441c9858bb6b86d405 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=25132067&h=9a81fd9070117e441c9858bb6b86d405&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 2: 
+	 Name: How to Write a PhD Thesis 
+	 ID: 73953 
+	 Session Id: /ebook/preview?id=73953&session= 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=73953&h=/ebook/preview?id=73953&session=&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 3: 
+	 Name: How to Write a Better Thesis 
+	 ID: 28119539 
+	 Session Id: fbfab96382afba7aab33e75e6ee07f3a 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=28119539&h=fbfab96382afba7aab33e75e6ee07f3a&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 4: 
+	 Name: How to Write a Thesis 
+	 ID: 157828987 
+	 Session Id: f3b385e7e734fc7008a57cc70f2d1baa 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=157828987&h=f3b385e7e734fc7008a57cc70f2d1baa&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 5: 
+	 Name: PhD thesis 
+	 ID: 16039657 
+	 Session Id: e139a0406a16cacf1dc8002584023a19 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=16039657&h=e139a0406a16cacf1dc8002584023a19&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 6: 
+	 Name: Guide to the Successful Thesis and Dissertation 
+	 ID: 24986974 
+	 Session Id: 7a669d39ad40269f6f1fcad0dae3488f 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=24986974&h=7a669d39ad40269f6f1fcad0dae3488f&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 7: 
+	 Name: Structuring the Thesis 
+	 ID: 187532332 
+	 Session Id: fbfcaa04fcd39d3c1ad3ca610c8a6b8d 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=187532332&h=fbfcaa04fcd39d3c1ad3ca610c8a6b8d&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 8: 
+	 Name: Thesis Writing for Master's and Ph.D. Program 
+	 ID: 187821607 
+	 Session Id: 409ca6a52b1b91bf4cc0597d1dd61555 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=187821607&h=409ca6a52b1b91bf4cc0597d1dd61555&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 9: 
+	 Name: Authoring a PhD How to plan, draft, write and finish a doctoral thesis or dissertation Patrick ... 
+	 ID: 35794047 
+	 Session Id: 616cf49a046fd99e1676fe2cdb767048 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=35794047&h=616cf49a046fd99e1676fe2cdb767048&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 10: 
+	 Name: PhD thesis 
+	 ID: 20653213 
+	 Session Id: dae4ce6ecefe7681be544225f2144a7b 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=20653213&h=dae4ce6ecefe7681be544225f2144a7b&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 11: 
+	 Name: Using LaTeX to Write a PhD Thesis - Dickimaw Books 
+	 ID: 11182121 
+	 Session Id: e02c608f069ebd76c282c59a627d36d6 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=11182121&h=e02c608f069ebd76c282c59a627d36d6&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 12: 
+	 Name: Authoring a PhD: How to plan, draft, write and finish a doctoral thesis or dissertation 
+	 ID: 182644834 
+	 Session Id: 27df154e3d95731b73a6764d98110e8a 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=182644834&h=27df154e3d95731b73a6764d98110e8a&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 13: 
+	 Name: Writing your thesis - A Practical Guide for Students 
+	 ID: 188622050 
+	 Session Id: 4555bf613792f31bc4b63cda83557fe9 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=188622050&h=4555bf613792f31bc4b63cda83557fe9&u=cache&ext=pdf 
+	 Status: Success 
+
+ ********* Check point ************
+
+Topic 1: Thesis 
+URL: https://www.pdfdrive.com/search?q=Thesis&pagecount=100-*&pubyear=2017&searchin=en 
+
+Book 1: 
+	 Name: How to Write a Better Thesis 
+	 ID: 25132067 
+	 Session Id: 9a81fd9070117e441c9858bb6b86d405 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=25132067&h=9a81fd9070117e441c9858bb6b86d405&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 2: 
+	 Name: How to Write a PhD Thesis 
+	 ID: 73953 
+	 Session Id: /ebook/preview?id=73953&session= 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=73953&h=/ebook/preview?id=73953&session=&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 3: 
+	 Name: How to Write a Better Thesis 
+	 ID: 28119539 
+	 Session Id: fbfab96382afba7aab33e75e6ee07f3a 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=28119539&h=fbfab96382afba7aab33e75e6ee07f3a&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 4: 
+	 Name: How to Write a Thesis 
+	 ID: 157828987 
+	 Session Id: f3b385e7e734fc7008a57cc70f2d1baa 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=157828987&h=f3b385e7e734fc7008a57cc70f2d1baa&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 5: 
+	 Name: PhD thesis 
+	 ID: 16039657 
+	 Session Id: e139a0406a16cacf1dc8002584023a19 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=16039657&h=e139a0406a16cacf1dc8002584023a19&u=cache&ext=pdf 
+	 Status: Success 
+
+ ********* Check point ************
+
+Topic 1: Thesis 
+URL: https://www.pdfdrive.com/search?q=Thesis&pagecount=100-*&pubyear=2017&searchin=en 
+
+Book 1: 
+	 Name: How to Write a Better Thesis 
+	 ID: 25132067 
+	 Session Id: 9a81fd9070117e441c9858bb6b86d405 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=25132067&h=9a81fd9070117e441c9858bb6b86d405&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 1 
+
+ ********* Check point ************
+
+Topic 1: Thesis 
+URL: https://www.pdfdrive.com/search?q=Thesis&pagecount=100-*&pubyear=2017&searchin=en 
+
+Book 1: 
+	 Name: How to Write a Better Thesis 
+	 ID: 25132067 
+	 Session Id: 9a81fd9070117e441c9858bb6b86d405 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=25132067&h=9a81fd9070117e441c9858bb6b86d405&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 1 
+
+ ********* Check point ************
+
+Topic 1: Thesis 
+URL: https://www.pdfdrive.com/search?q=Thesis&pagecount=100-*&pubyear=2017&searchin=en 
+
+Book 1: 
+	 Name: How to Write a Better Thesis 
+	 ID: 25132067 
+	 Session Id: 9a81fd9070117e441c9858bb6b86d405 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=25132067&h=9a81fd9070117e441c9858bb6b86d405&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 1 
+
+ ********* Check point ************
+
+Topic 1: Thesis 
+URL: https://www.pdfdrive.com/search?q=Thesis&pagecount=100-*&pubyear=2017&searchin=en 
+
+Book 1: 
+	 Name: How to Write a Better Thesis 
+	 ID: 25132067 
+	 Session Id: 9a81fd9070117e441c9858bb6b86d405 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=25132067&h=9a81fd9070117e441c9858bb6b86d405&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 1 
+
+ ********* Check point ************
+
+Topic 1: Thesis 
+URL: https://www.pdfdrive.com/search?q=Thesis&pagecount=100-*&pubyear=2017&searchin=en 
+
+Book 1: 
+	 Name: How to Write a Better Thesis 
+	 ID: 25132067 
+	 Session Id: 9a81fd9070117e441c9858bb6b86d405 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=25132067&h=9a81fd9070117e441c9858bb6b86d405&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 1 
+
+ ********* Check point ************
+
+Topic 1: Thesis 
+URL: https://www.pdfdrive.com/search?q=Thesis&pagecount=100-*&pubyear=2018&searchin=en 
+
+Book 1: 
+	 Name: How to Write a Better Thesis 
+	 ID: 25132067 
+	 Session Id: 9a81fd9070117e441c9858bb6b86d405 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=25132067&h=9a81fd9070117e441c9858bb6b86d405&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 1 
+
+
+
+Topic 2: Special Topic in Computing 
+URL: https://www.pdfdrive.com/search?q=Special+Topic+in+Computing&pagecount=100-*&pubyear=2018&searchin=en 
+
+Book 1: 
+	 Name:  Matrix Algebra: Theory, Computations and Applications in Statistics 
+	 ID: 187772523 
+	 Session Id: e39d3d85a99471a1290683ae7d054139 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=187772523&h=e39d3d85a99471a1290683ae7d054139&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 2 
+
+
+
+Topic 3: Systems analysis and Designs 
+URL: https://www.pdfdrive.com/search?q=Systems+analysis+and+Designs&pagecount=100-*&pubyear=2018&searchin=en 
+
+Book 1: 
+	 Name: Power System Analysis and Design 
+	 ID: 39893261 
+	 Session Id: afc6dd6dc3445637a254001c09c9f7ee 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=39893261&h=afc6dd6dc3445637a254001c09c9f7ee&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 3 
+
+
+
+Topic 4: introduction to Operating System 
+URL: https://www.pdfdrive.com/search?q=introduction+to+Operating+System&pagecount=100-*&pubyear=2018&searchin=en 
+
+Book 1: 
+	 Name: Introduction to Operations Research 
+	 ID: 14995994 
+	 Session Id: dd81a2bf8c2c5ed250753e2d9253375c 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=14995994&h=dd81a2bf8c2c5ed250753e2d9253375c&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 4 
+
+
+
+Topic 5: Software Engineering Principles 
+URL: https://www.pdfdrive.com/search?q=Software+Engineering+Principles&pagecount=100-*&pubyear=2018&searchin=en 
+
+Book 1: 
+	 Name: Software Engineering: Principles and Practice 
+	 ID: 24634430 
+	 Session Id: 325e38f98da76d98b7ec5a8b32ffcf2c 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=24634430&h=325e38f98da76d98b7ec5a8b32ffcf2c&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 5 
+
+
+
+Topic 6: Object- Oriented programming language 
+URL: https://www.pdfdrive.com/search?q=Object-+Oriented+programming+language&pagecount=100-*&pubyear=2018&searchin=en 
+
+Book 1: 
+	 Name: Learning Python: powerful object-oriented programming 
+	 ID: 169780738 
+	 Session Id: 7f32a96b2ff3b4e7179c6136e8930803 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=169780738&h=7f32a96b2ff3b4e7179c6136e8930803&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 6 
+
+
+
+Topic 7: Database Systems 
+URL: https://www.pdfdrive.com/search?q=Database+Systems&pagecount=100-*&pubyear=2018&searchin=en 
+
+Book 1: 
+	 Name: Database Systems: Design, Implementation, and Management (with  
+	 ID: 6663225 
+	 Session Id: c89d41e65b9f6da225c71c14ab516813 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=6663225&h=c89d41e65b9f6da225c71c14ab516813&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 7 
+
+
+
+Topic 8: Computer graphics and Visualization 
+URL: https://www.pdfdrive.com/search?q=Computer+graphics+and+Visualization&pagecount=100-*&pubyear=2018&searchin=en 
+
+Book 1: 
+	 Name: Computer Graphics 
+	 ID: 24798869 
+	 Session Id: 83f7a3484a3b87a2ab4088945e5a4a79 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=24798869&h=83f7a3484a3b87a2ab4088945e5a4a79&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 8 
+
+
+
+Topic 9: Project Seminar II 
+URL: https://www.pdfdrive.com/search?q=Project+Seminar+II&pagecount=100-*&pubyear=2018&searchin=en 
+
+Book 1: 
+	 Name: Arduino Projects For Dummies 
+	 ID: 33405793 
+	 Session Id: 7ffc39fffbbf86f8d9de3d4fea1e8880 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=33405793&h=7ffc39fffbbf86f8d9de3d4fea1e8880&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 9 
+
+
+
+Topic 10: Project 
+URL: https://www.pdfdrive.com/search?q=Project&pagecount=100-*&pubyear=2018&searchin=en 
+
+Book 1: 
+	 Name: Coding Projects in Python 
+	 ID: 58401661 
+	 Session Id: 98d767dabd18cb491ce18b3dc146f271 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=58401661&h=98d767dabd18cb491ce18b3dc146f271&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 10 
+
+
+
+Topic 11: Operations Research 
+URL: https://www.pdfdrive.com/search?q=Operations+Research&pagecount=100-*&pubyear=2018&searchin=en 
+
+Book 1: 
+	 Name: introduction to operations research 
+	 ID: 34458313 
+	 Session Id: c26074401b601f30b0e391c699e8d566 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=34458313&h=c26074401b601f30b0e391c699e8d566&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 11 
+
+
+
+Topic 12: Introduction to Data Science 
+URL: https://www.pdfdrive.com/search?q=Introduction+to+Data+Science&pagecount=100-*&pubyear=2018&searchin=en 
+
+Book 1: 
+	 Name: Data Science Starter Program Introduction to Data Science 
+	 ID: 33634854 
+	 Session Id: 049b187688f611b525703ede8a9d023a 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=33634854&h=049b187688f611b525703ede8a9d023a&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 12 
+
+
+
+Topic 13: Fundamentals of Computer Science 
+URL: https://www.pdfdrive.com/search?q=Fundamentals+of+Computer+Science&pagecount=100-*&pubyear=2018&searchin=en 
+
+Book 1: 
+	 Name:  Computer Systems: Digital Design, Fundamentals of Computer Architecture and Assembly Language 
+	 ID: 182273799 
+	 Session Id: 0143b6653e7d250802607c62dc476b29 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=182273799&h=0143b6653e7d250802607c62dc476b29&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 13 
+
+
+
+Topic 14: Artificial Intelligence and Game 
+URL: https://www.pdfdrive.com/search?q=Artificial+Intelligence+and+Game&pagecount=100-*&pubyear=2018&searchin=en 
+
+Book 1: 
+	 Name: Artificial Intelligence For GAMES 
+	 ID: 25411627 
+	 Session Id: 3dd67e19636fe692b294142e3b1d014b 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=25411627&h=3dd67e19636fe692b294142e3b1d014b&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 14 
+
+
+
+Topic 15: Concepts Of Programming language 
+URL: https://www.pdfdrive.com/search?q=Concepts+Of+Programming+language&pagecount=100-*&pubyear=2018&searchin=en 
+
+Book 1: 
+	 Name: C Programming  Language  The ULtimate Beginner's Guide 
+	 ID: 158124142 
+	 Session Id: 192e5d77a5c56d49f1f48cd9313ab7d1 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=158124142&h=192e5d77a5c56d49f1f48cd9313ab7d1&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 15 
+
+
+
+Topic 16: Data Structures and Algorithms 
+URL: https://www.pdfdrive.com/search?q=Data+Structures+and+Algorithms&pagecount=100-*&pubyear=2018&searchin=en 
+
+Book 1: 
+	 Name: Data Structure and Algorithmic Thinking with Python  Data Structure and Algorithmic Puzzles 
+	 ID: 158071362 
+	 Session Id: 343d25de4689aab5650c351be397d218 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=158071362&h=343d25de4689aab5650c351be397d218&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 16 
+
+
+
+Topic 17: Compilers Techniques 
+URL: https://www.pdfdrive.com/search?q=Compilers+Techniques&pagecount=100-*&pubyear=2018&searchin=en 
+
+Book 1: 
+	 Name: Compiler Principles, Techniques and Tools 
+	 ID: 6708003 
+	 Session Id: 8b398938bf89520ff77a633ef5988eba 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=6708003&h=8b398938bf89520ff77a633ef5988eba&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 17 
+
+
+
+Topic 18: Reading Course/Pre-project Seminar I 
+URL: https://www.pdfdrive.com/search?q=Reading+Course/Pre-project+Seminar+I&pagecount=100-*&pubyear=2018&searchin=en 
+
+Book 1: 
+	 Name: GENKI I: An Integrated Course in Elementary Japanese 
+	 ID: 157591729 
+	 Session Id: 0812376ea0ce91477b8058732371c30c 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=157591729&h=0812376ea0ce91477b8058732371c30c&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 18 
+
+
+
+Topic 19: Computer Networks and 
+URL: https://www.pdfdrive.com/search?q=Computer+Networks+and&pagecount=100-*&pubyear=2018&searchin=en 
+
+Book 1: 
+	 Name: Computer networks 
+	 ID: 175307056 
+	 Session Id: 76110c76eec09985710ea597d0118dee 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=175307056&h=76110c76eec09985710ea597d0118dee&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 19 
+
+
+
+Topic 20: Comrnunicaoons 
+URL: https://www.pdfdrive.com/search?q=Comrnunicaoons&pagecount=100-*&pubyear=2018&searchin=en 
+
+Total Number of Books: 19 
+
+
+
+Topic 21: Bioinformatics 
+URL: https://www.pdfdrive.com/search?q=Bioinformatics&pagecount=100-*&pubyear=2018&searchin=en 
+
+Book 1: 
+	 Name: Bioinformatics and Functional Genomics 
+	 ID: 58046198 
+	 Session Id: d6423bb768b3bec3ba99a0b30c1cb857 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=58046198&h=d6423bb768b3bec3ba99a0b30c1cb857&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 20 
+
+
+
+Topic 22: Special Topics in Computing 
+URL: https://www.pdfdrive.com/search?q=Special+Topics+in+Computing&pagecount=100-*&pubyear=2018&searchin=en 
+
+Book 1: 
+	 Name:  Matrix Algebra: Theory, Computations and Applications in Statistics 
+	 ID: 187772523 
+	 Session Id: e39d3d85a99471a1290683ae7d054139 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=187772523&h=e39d3d85a99471a1290683ae7d054139&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 21 
+
+ ********* Check point ************
+
+Topic 1: Thesis 
+URL: https://www.pdfdrive.com/search?q=Thesis&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: How to Write a Better Thesis 
+	 ID: 25132067 
+	 Session Id: 9a81fd9070117e441c9858bb6b86d405 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=25132067&h=9a81fd9070117e441c9858bb6b86d405&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 1 
+
+
+
+Topic 2: Special Topic in Computing 
+URL: https://www.pdfdrive.com/search?q=Special+Topic+in+Computing&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name:  Matrix Algebra: Theory, Computations and Applications in Statistics 
+	 ID: 187772523 
+	 Session Id: e39d3d85a99471a1290683ae7d054139 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=187772523&h=e39d3d85a99471a1290683ae7d054139&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 2 
+
+ ********* Check point ************
+
+Topic 4: introduction to Operating System 
+URL: https://www.pdfdrive.com/search?q=introduction+to+Operating+System&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Introduction to Operations Research 
+	 ID: 14995994 
+	 Session Id: dd81a2bf8c2c5ed250753e2d9253375c 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=14995994&h=dd81a2bf8c2c5ed250753e2d9253375c&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 1 
+
+
+
+Topic 5: Software Engineering Principles 
+URL: https://www.pdfdrive.com/search?q=Software+Engineering+Principles&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Software Engineering: Principles and Practice 
+	 ID: 24634430 
+	 Session Id: 325e38f98da76d98b7ec5a8b32ffcf2c 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=24634430&h=325e38f98da76d98b7ec5a8b32ffcf2c&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 2 
+
+ ********* Check point ************
+
+Topic 3: Systems analysis and Designs 
+URL: https://www.pdfdrive.com/search?q=Systems+analysis+and+Designs&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Power System Analysis and Design 
+	 ID: 39893261 
+	 Session Id: afc6dd6dc3445637a254001c09c9f7ee 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=39893261&h=afc6dd6dc3445637a254001c09c9f7ee&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 1 
+
+
+
+Topic 4: introduction to Operating System 
+URL: https://www.pdfdrive.com/search?q=introduction+to+Operating+System&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Introduction to Operations Research 
+	 ID: 14995994 
+	 Session Id: dd81a2bf8c2c5ed250753e2d9253375c 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=14995994&h=dd81a2bf8c2c5ed250753e2d9253375c&u=cache&ext=pdf 
+	 Status: Success 
+
+ ********* Check point ************
+
+Topic 3: Systems analysis and Designs 
+URL: https://www.pdfdrive.com/search?q=Systems+analysis+and+Designs&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Power System Analysis and Design 
+	 ID: 39893261 
+	 Session Id: afc6dd6dc3445637a254001c09c9f7ee 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=39893261&h=afc6dd6dc3445637a254001c09c9f7ee&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 1 
+
+
+
+Topic 4: introduction to Operating System 
+URL: https://www.pdfdrive.com/search?q=introduction+to+Operating+System&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Introduction to Operations Research 
+	 ID: 14995994 
+	 Session Id: dd81a2bf8c2c5ed250753e2d9253375c 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=14995994&h=dd81a2bf8c2c5ed250753e2d9253375c&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 2 
+
+
+
+Topic 5: Software Engineering Principles 
+URL: https://www.pdfdrive.com/search?q=Software+Engineering+Principles&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Software Engineering: Principles and Practice 
+	 ID: 24634430 
+	 Session Id: 325e38f98da76d98b7ec5a8b32ffcf2c 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=24634430&h=325e38f98da76d98b7ec5a8b32ffcf2c&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 3 
+
+ ********* Check point ************
+
+Topic 3: Systems analysis and Designs 
+URL: https://www.pdfdrive.com/search?q=Systems+analysis+and+Designs&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Power System Analysis and Design 
+	 ID: 39893261 
+	 Session Id: afc6dd6dc3445637a254001c09c9f7ee 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=39893261&h=afc6dd6dc3445637a254001c09c9f7ee&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 1 
+
+
+
+Topic 4: introduction to Operating System 
+URL: https://www.pdfdrive.com/search?q=introduction+to+Operating+System&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Introduction to Operations Research 
+	 ID: 14995994 
+	 Session Id: dd81a2bf8c2c5ed250753e2d9253375c 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=14995994&h=dd81a2bf8c2c5ed250753e2d9253375c&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 2 
+
+
+
+Topic 5: Software Engineering Principles 
+URL: https://www.pdfdrive.com/search?q=Software+Engineering+Principles&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Software Engineering: Principles and Practice 
+	 ID: 24634430 
+	 Session Id: 325e38f98da76d98b7ec5a8b32ffcf2c 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=24634430&h=325e38f98da76d98b7ec5a8b32ffcf2c&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 3 
+
+
+
+Topic 6: Object- Oriented programming language 
+URL: https://www.pdfdrive.com/search?q=Object-+Oriented+programming+language&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Learning Python: powerful object-oriented programming 
+	 ID: 169780738 
+	 Session Id: 7f32a96b2ff3b4e7179c6136e8930803 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=169780738&h=7f32a96b2ff3b4e7179c6136e8930803&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 4 
+
+ ********* Check point ************
+
+Topic 3: Systems analysis and Designs 
+URL: https://www.pdfdrive.com/search?q=Systems+analysis+and+Designs&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Power System Analysis and Design 
+	 ID: 39893261 
+	 Session Id: afc6dd6dc3445637a254001c09c9f7ee 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=39893261&h=afc6dd6dc3445637a254001c09c9f7ee&u=cache&ext=pdf 
+	 Status: Success 
+
+ ********* Check point ************
+
+Topic 3: Systems analysis and Designs 
+URL: https://www.pdfdrive.com/search?q=Systems+analysis+and+Designs&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Power System Analysis and Design 
+	 ID: 39893261 
+	 Session Id: afc6dd6dc3445637a254001c09c9f7ee 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=39893261&h=afc6dd6dc3445637a254001c09c9f7ee&u=cache&ext=pdf 
+	 Status: Success 
+
+ ********* Check point ************
+
+Topic 3: Systems analysis and Designs 
+URL: https://www.pdfdrive.com/search?q=Systems+analysis+and+Designs&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Power System Analysis and Design 
+	 ID: 39893261 
+	 Session Id: afc6dd6dc3445637a254001c09c9f7ee 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=39893261&h=afc6dd6dc3445637a254001c09c9f7ee&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 3: 
+	 Name: Wind and solar power systems: design, analysis, and operation 
+	 ID: 3383161 
+	 Session Id: 44a0ee80d031092825a842e3db4a8452 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=3383161&h=44a0ee80d031092825a842e3db4a8452&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 4: 
+	 Name: Analysis and Design of Control Systems using MATLAB 
+	 ID: 11630102 
+	 Session Id: 5b50f0ae893c1b7218c469b3aedd9d29 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=11630102&h=5b50f0ae893c1b7218c469b3aedd9d29&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 5: 
+	 Name: Systems Analysis and Design in a Changing World 
+	 ID: 184779785 
+	 Session Id: 1720082073a90b2b382befe2502893b7 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=184779785&h=1720082073a90b2b382befe2502893b7&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 6: 
+	 Name: Systems Analysis and Design: An Object-Oriented Approach with UML 
+	 ID: 185445863 
+	 Session Id: c6b70e1af3cb03c7d47746088c9db2ff 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=185445863&h=c6b70e1af3cb03c7d47746088c9db2ff&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 7: 
+	 Name: Design and Analysis of Tall and Complex Structures 
+	 ID: 158337810 
+	 Session Id: 2481c17609f5eeff35b51be32ca78fcf 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=158337810&h=2481c17609f5eeff35b51be32ca78fcf&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 8: 
+	 Name: Analysis and Design of Information Systems 
+	 ID: 33717836 
+	 Session Id: 6cccba0c86d53019917eb02f4adb982c 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=33717836&h=6cccba0c86d53019917eb02f4adb982c&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 9: 
+	 Name: Systems Analysis and Design 
+	 ID: 47255593 
+	 Session Id: 28e4e376c76dae6caf8a3581e1527517 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=47255593&h=28e4e376c76dae6caf8a3581e1527517&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 10 
+
+
+
+Topic 4: introduction to Operating System 
+URL: https://www.pdfdrive.com/search?q=introduction+to+Operating+System&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Introduction to Operations Research 
+	 ID: 14995994 
+	 Session Id: dd81a2bf8c2c5ed250753e2d9253375c 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=14995994&h=dd81a2bf8c2c5ed250753e2d9253375c&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 2: 
+	 Name: An Introduction to Vectors, Vector Operators and Vector Analysis 
+	 ID: 182285447 
+	 Session Id: fef2cfe148f5533231a368271bbeeb61 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=182285447&h=fef2cfe148f5533231a368271bbeeb61&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 3: 
+	 Name: Embedded Systems: Real-Time Operating Systems for Arm Cortex M Microcontrollers 
+	 ID: 157109961 
+	 Session Id: 83d6f803762f2ce35bdbd53712fe6c4f 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=157109961&h=83d6f803762f2ce35bdbd53712fe6c4f&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 4: 
+	 Name: Programming Robots with ROS: A Practical Introduction to the Robot Operating System 
+	 ID: 166617536 
+	 Session Id: 70efcbcb42c3377f99a2922e8b50ee69 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=166617536&h=70efcbcb42c3377f99a2922e8b50ee69&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 5: 
+	 Name: Operating System Concepts and Basic Linux Commands 
+	 ID: 59318669 
+	 Session Id: b2ec305820321a5420a31a70e19c3113 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=59318669&h=b2ec305820321a5420a31a70e19c3113&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 6: 
+	 Name: Operating Systems: Three Easy Pieces 
+	 ID: 157868341 
+	 Session Id: 83fda9bc51ba0735974a35c4a046e9d9 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=157868341&h=83fda9bc51ba0735974a35c4a046e9d9&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 7: 
+	 Name: Embedded System Design : Embedded Systems, Foundations of Cyber-Physical Systems, and the Internet 
+	 ID: 158323971 
+	 Session Id: 94c7b75feb4efb54d360dd52130c0e3f 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=158323971&h=94c7b75feb4efb54d360dd52130c0e3f&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 8: 
+	 Name: Embedded systems: introduction to ARM® Cortex(TM)-M microcontrollers 
+	 ID: 176014882 
+	 Session Id: 9157abaa4c5639efce3751ce71d17e86 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=176014882&h=9157abaa4c5639efce3751ce71d17e86&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 9: 
+	 Name: System Software: An Introduction To Systems Programming 
+	 ID: 184781136 
+	 Session Id: 1c54af6fba761a56833dfa1fbbd38aee 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=184781136&h=1c54af6fba761a56833dfa1fbbd38aee&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 10: 
+	 Name: Introduction to mobile network engineering : GSM, 3G-WCDMA, LTE and teh road to 5G 
+	 ID: 188626922 
+	 Session Id: 5693c35b833f2ae75ca4d566cb31ef29 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=188626922&h=5693c35b833f2ae75ca4d566cb31ef29&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 20 
+
+
+
+Topic 5: Software Engineering Principles 
+URL: https://www.pdfdrive.com/search?q=Software+Engineering+Principles&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Software Engineering: Principles and Practice 
+	 ID: 24634430 
+	 Session Id: 325e38f98da76d98b7ec5a8b32ffcf2c 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=24634430&h=325e38f98da76d98b7ec5a8b32ffcf2c&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 2: 
+	 Name: Agile Software Development, Principles, Patterns, and Practices 
+	 ID: 157786315 
+	 Session Id: 5d5f93128554f974acf62ba863ef97e8 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=157786315&h=5d5f93128554f974acf62ba863ef97e8&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 3: 
+	 Name: Software Engineering -Rajib-Mall 
+	 ID: 34384248 
+	 Session Id: ac5f0780014844914b25e1adfae1f872 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=34384248&h=ac5f0780014844914b25e1adfae1f872&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 4: 
+	 Name: Engineering Analysis with ANSYS Software 
+	 ID: 185171757 
+	 Session Id: 99e4853e276e4e40601dac08985fe5c2 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=185171757&h=99e4853e276e4e40601dac08985fe5c2&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 5: 
+	 Name: Digital Principles and Logic Design  
+	 ID: 158438484 
+	 Session Id: 3cd21aadd966384bf55931609f67f971 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=158438484&h=3cd21aadd966384bf55931609f67f971&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 6: 
+	 Name: Compilers: Principles, Techniques, Tools 
+	 ID: 158432002 
+	 Session Id: 2cb493f366e6c2be5f755c378e310cec 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=158432002&h=2cb493f366e6c2be5f755c378e310cec&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 7: 
+	 Name: Fundamentals of Software Engineering 
+	 ID: 176020468 
+	 Session Id: 3188341194d686f5f3d4eca0fc88ccd3 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=176020468&h=3188341194d686f5f3d4eca0fc88ccd3&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 8: 
+	 Name: The Elements of Computing Systems: Building a Modern Computer from First Principles 
+	 ID: 164880794 
+	 Session Id: 87c6bd436df504df8cd00759a7428d29 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=164880794&h=87c6bd436df504df8cd00759a7428d29&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 9: 
+	 Name: Learn Keras for Deep Neural Networks: A Fast-Track Approach to Modern Deep Learning with Python 
+	 ID: 185770502 
+	 Session Id: b5e204bc896af00c4438f87da58c3d54 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=185770502&h=b5e204bc896af00c4438f87da58c3d54&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 10: 
+	 Name: Basics of precision engineering 
+	 ID: 158318322 
+	 Session Id: b17681e486ae95ac261b4b78065f750b 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=158318322&h=b17681e486ae95ac261b4b78065f750b&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 30 
+
+
+
+Topic 6: Object- Oriented programming language 
+URL: https://www.pdfdrive.com/search?q=Object-+Oriented+programming+language&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Learning Python: powerful object-oriented programming 
+	 ID: 169780738 
+	 Session Id: 7f32a96b2ff3b4e7179c6136e8930803 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=169780738&h=7f32a96b2ff3b4e7179c6136e8930803&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 2: 
+	 Name: Object-Oriented Programming C++ Simplified 
+	 ID: 58675533 
+	 Session Id: c847567204fa5bd1eb37c1263c328704 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=58675533&h=c847567204fa5bd1eb37c1263c328704&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 3: 
+	 Name: Object-Oriented JavaScript 
+	 ID: 183900718 
+	 Session Id: 9c1f408dd5d962c71283b82d9c00827a 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=183900718&h=9c1f408dd5d962c71283b82d9c00827a&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 4: 
+	 Name: Beginning Programming with Python for Dummies 
+	 ID: 176211134 
+	 Session Id: 55c3657e9f1670e8251e31c24e0f4334 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=176211134&h=55c3657e9f1670e8251e31c24e0f4334&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 5: 
+	 Name: Learn PHP 7: Object Oriented Modular Programming using HTML5, CSS3, JavaScript, XML, JSON 
+	 ID: 175321455 
+	 Session Id: fb11c7ec8d43f8fd6b0185f71ef552b9 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=175321455&h=fb11c7ec8d43f8fd6b0185f71ef552b9&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 6: 
+	 Name: Java Program Design: Principles, Polymorphism, and Patterns 
+	 ID: 176175847 
+	 Session Id: 5aeda1cebbca1147d5e6913e75803a88 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=176175847&h=5aeda1cebbca1147d5e6913e75803a88&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 7: 
+	 Name: JavaScript: Object-Oriented Programming 
+	 ID: 184031569 
+	 Session Id: 97569d29edab0e6dd0d8074e262f3f98 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=184031569&h=97569d29edab0e6dd0d8074e262f3f98&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 8: 
+	 Name: The Object-Oriented Thought Process (4th Edition) 
+	 ID: 196801872 
+	 Session Id: 5c98861bfabfbdf96a1f0c81c20644b3 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=196801872&h=5c98861bfabfbdf96a1f0c81c20644b3&u=cache&ext=pdf 
+	 Status: Success 
+
+ ********* Check point ************
+
+Topic 3: Systems analysis and Designs 
+URL: https://www.pdfdrive.com/search?q=Systems+analysis+and+Designs&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Power System Analysis and Design 
+	 ID: 39893261 
+	 Session Id: afc6dd6dc3445637a254001c09c9f7ee 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=39893261&h=afc6dd6dc3445637a254001c09c9f7ee&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 3: 
+	 Name: Wind and solar power systems: design, analysis, and operation 
+	 ID: 3383161 
+	 Session Id: 44a0ee80d031092825a842e3db4a8452 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=3383161&h=44a0ee80d031092825a842e3db4a8452&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 4: 
+	 Name: Analysis and Design of Control Systems using MATLAB 
+	 ID: 11630102 
+	 Session Id: 5b50f0ae893c1b7218c469b3aedd9d29 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=11630102&h=5b50f0ae893c1b7218c469b3aedd9d29&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 5: 
+	 Name: Systems Analysis and Design in a Changing World 
+	 ID: 184779785 
+	 Session Id: 1720082073a90b2b382befe2502893b7 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=184779785&h=1720082073a90b2b382befe2502893b7&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 6: 
+	 Name: Systems Analysis and Design: An Object-Oriented Approach with UML 
+	 ID: 185445863 
+	 Session Id: c6b70e1af3cb03c7d47746088c9db2ff 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=185445863&h=c6b70e1af3cb03c7d47746088c9db2ff&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 7: 
+	 Name: Design and Analysis of Tall and Complex Structures 
+	 ID: 158337810 
+	 Session Id: 2481c17609f5eeff35b51be32ca78fcf 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=158337810&h=2481c17609f5eeff35b51be32ca78fcf&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 8: 
+	 Name: Analysis and Design of Information Systems 
+	 ID: 33717836 
+	 Session Id: 6cccba0c86d53019917eb02f4adb982c 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=33717836&h=6cccba0c86d53019917eb02f4adb982c&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 9: 
+	 Name: Systems Analysis and Design 
+	 ID: 47255593 
+	 Session Id: 28e4e376c76dae6caf8a3581e1527517 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=47255593&h=28e4e376c76dae6caf8a3581e1527517&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 11: 
+	 Name: Power systems and renewable energy : design, operation, and system analysis 
+	 ID: 167494958 
+	 Session Id: 66b209b5cb73fbda714be43ea23325d8 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=167494958&h=66b209b5cb73fbda714be43ea23325d8&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 12: 
+	 Name: Mastering SolidWorks: The Design Approach 
+	 ID: 184044162 
+	 Session Id: 62d4bb98dee0173f645e79cdb5f35507 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=184044162&h=62d4bb98dee0173f645e79cdb5f35507&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 10 
+
+
+
+Topic 4: introduction to Operating System 
+URL: https://www.pdfdrive.com/search?q=introduction+to+Operating+System&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Introduction to Operations Research 
+	 ID: 14995994 
+	 Session Id: dd81a2bf8c2c5ed250753e2d9253375c 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=14995994&h=dd81a2bf8c2c5ed250753e2d9253375c&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 2: 
+	 Name: An Introduction to Vectors, Vector Operators and Vector Analysis 
+	 ID: 182285447 
+	 Session Id: fef2cfe148f5533231a368271bbeeb61 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=182285447&h=fef2cfe148f5533231a368271bbeeb61&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 3: 
+	 Name: Embedded Systems: Real-Time Operating Systems for Arm Cortex M Microcontrollers 
+	 ID: 157109961 
+	 Session Id: 83d6f803762f2ce35bdbd53712fe6c4f 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=157109961&h=83d6f803762f2ce35bdbd53712fe6c4f&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 4: 
+	 Name: Programming Robots with ROS: A Practical Introduction to the Robot Operating System 
+	 ID: 166617536 
+	 Session Id: 70efcbcb42c3377f99a2922e8b50ee69 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=166617536&h=70efcbcb42c3377f99a2922e8b50ee69&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 5: 
+	 Name: Operating System Concepts and Basic Linux Commands 
+	 ID: 59318669 
+	 Session Id: b2ec305820321a5420a31a70e19c3113 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=59318669&h=b2ec305820321a5420a31a70e19c3113&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 6: 
+	 Name: Operating Systems: Three Easy Pieces 
+	 ID: 157868341 
+	 Session Id: 83fda9bc51ba0735974a35c4a046e9d9 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=157868341&h=83fda9bc51ba0735974a35c4a046e9d9&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 9: 
+	 Name: System Software: An Introduction To Systems Programming 
+	 ID: 184781136 
+	 Session Id: 1c54af6fba761a56833dfa1fbbd38aee 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=184781136&h=1c54af6fba761a56833dfa1fbbd38aee&u=cache&ext=pdf 
+	 Status: Success 
+
+ ********* Check point ************
+
+Topic 3: Systems analysis and Designs 
+URL: https://www.pdfdrive.com/search?q=Systems+analysis+and+Designs&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Power System Analysis and Design 
+	 ID: 39893261 
+	 Session Id: afc6dd6dc3445637a254001c09c9f7ee 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=39893261&h=afc6dd6dc3445637a254001c09c9f7ee&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 3: 
+	 Name: Wind and solar power systems: design, analysis, and operation 
+	 ID: 3383161 
+	 Session Id: 44a0ee80d031092825a842e3db4a8452 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=3383161&h=44a0ee80d031092825a842e3db4a8452&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 4: 
+	 Name: Analysis and Design of Control Systems using MATLAB 
+	 ID: 11630102 
+	 Session Id: 5b50f0ae893c1b7218c469b3aedd9d29 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=11630102&h=5b50f0ae893c1b7218c469b3aedd9d29&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 5: 
+	 Name: Systems Analysis and Design in a Changing World 
+	 ID: 184779785 
+	 Session Id: 1720082073a90b2b382befe2502893b7 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=184779785&h=1720082073a90b2b382befe2502893b7&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 6: 
+	 Name: Systems Analysis and Design: An Object-Oriented Approach with UML 
+	 ID: 185445863 
+	 Session Id: c6b70e1af3cb03c7d47746088c9db2ff 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=185445863&h=c6b70e1af3cb03c7d47746088c9db2ff&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 7: 
+	 Name: Design and Analysis of Tall and Complex Structures 
+	 ID: 158337810 
+	 Session Id: 2481c17609f5eeff35b51be32ca78fcf 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=158337810&h=2481c17609f5eeff35b51be32ca78fcf&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 8: 
+	 Name: Analysis and Design of Information Systems 
+	 ID: 33717836 
+	 Session Id: 6cccba0c86d53019917eb02f4adb982c 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=33717836&h=6cccba0c86d53019917eb02f4adb982c&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 9: 
+	 Name: Systems Analysis and Design 
+	 ID: 47255593 
+	 Session Id: 28e4e376c76dae6caf8a3581e1527517 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=47255593&h=28e4e376c76dae6caf8a3581e1527517&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 11: 
+	 Name: Power systems and renewable energy : design, operation, and system analysis 
+	 ID: 167494958 
+	 Session Id: 66b209b5cb73fbda714be43ea23325d8 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=167494958&h=66b209b5cb73fbda714be43ea23325d8&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 12: 
+	 Name: Mastering SolidWorks: The Design Approach 
+	 ID: 184044162 
+	 Session Id: 62d4bb98dee0173f645e79cdb5f35507 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=184044162&h=62d4bb98dee0173f645e79cdb5f35507&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 10 
+
+
+
+Topic 4: introduction to Operating System 
+URL: https://www.pdfdrive.com/search?q=introduction+to+Operating+System&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Introduction to Operations Research 
+	 ID: 14995994 
+	 Session Id: dd81a2bf8c2c5ed250753e2d9253375c 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=14995994&h=dd81a2bf8c2c5ed250753e2d9253375c&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 2: 
+	 Name: An Introduction to Vectors, Vector Operators and Vector Analysis 
+	 ID: 182285447 
+	 Session Id: fef2cfe148f5533231a368271bbeeb61 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=182285447&h=fef2cfe148f5533231a368271bbeeb61&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 3: 
+	 Name: Embedded Systems: Real-Time Operating Systems for Arm Cortex M Microcontrollers 
+	 ID: 157109961 
+	 Session Id: 83d6f803762f2ce35bdbd53712fe6c4f 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=157109961&h=83d6f803762f2ce35bdbd53712fe6c4f&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 4: 
+	 Name: Programming Robots with ROS: A Practical Introduction to the Robot Operating System 
+	 ID: 166617536 
+	 Session Id: 70efcbcb42c3377f99a2922e8b50ee69 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=166617536&h=70efcbcb42c3377f99a2922e8b50ee69&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 5: 
+	 Name: Operating System Concepts and Basic Linux Commands 
+	 ID: 59318669 
+	 Session Id: b2ec305820321a5420a31a70e19c3113 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=59318669&h=b2ec305820321a5420a31a70e19c3113&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 6: 
+	 Name: Operating Systems: Three Easy Pieces 
+	 ID: 157868341 
+	 Session Id: 83fda9bc51ba0735974a35c4a046e9d9 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=157868341&h=83fda9bc51ba0735974a35c4a046e9d9&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 7: 
+	 Name: Embedded System Design : Embedded Systems, Foundations of Cyber-Physical Systems, and the Internet 
+	 ID: 158323971 
+	 Session Id: 94c7b75feb4efb54d360dd52130c0e3f 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=158323971&h=94c7b75feb4efb54d360dd52130c0e3f&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 8: 
+	 Name: Embedded systems: introduction to ARM® Cortex(TM)-M microcontrollers 
+	 ID: 176014882 
+	 Session Id: 9157abaa4c5639efce3751ce71d17e86 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=176014882&h=9157abaa4c5639efce3751ce71d17e86&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 9: 
+	 Name: System Software: An Introduction To Systems Programming 
+	 ID: 184781136 
+	 Session Id: 1c54af6fba761a56833dfa1fbbd38aee 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=184781136&h=1c54af6fba761a56833dfa1fbbd38aee&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 10: 
+	 Name: Introduction to mobile network engineering : GSM, 3G-WCDMA, LTE and teh road to 5G 
+	 ID: 188626922 
+	 Session Id: 5693c35b833f2ae75ca4d566cb31ef29 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=188626922&h=5693c35b833f2ae75ca4d566cb31ef29&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 11: 
+	 Name: Introduction to Mechatronics and Measurement Systems 
+	 ID: 34675203 
+	 Session Id: 5e9c85a5bc928de080e0891304357d62 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=34675203&h=5e9c85a5bc928de080e0891304357d62&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 12: 
+	 Name: Introduction to Logistics Systems Planning and Control 
+	 ID: 3443196 
+	 Session Id: c3e2b19c9fae0ce3f66ae942a0ef566e 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=3443196&h=c3e2b19c9fae0ce3f66ae942a0ef566e&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 22 
+
+
+
+Topic 5: Software Engineering Principles 
+URL: https://www.pdfdrive.com/search?q=Software+Engineering+Principles&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Software Engineering: Principles and Practice 
+	 ID: 24634430 
+	 Session Id: 325e38f98da76d98b7ec5a8b32ffcf2c 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=24634430&h=325e38f98da76d98b7ec5a8b32ffcf2c&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 2: 
+	 Name: Agile Software Development, Principles, Patterns, and Practices 
+	 ID: 157786315 
+	 Session Id: 5d5f93128554f974acf62ba863ef97e8 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=157786315&h=5d5f93128554f974acf62ba863ef97e8&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 3: 
+	 Name: Software Engineering -Rajib-Mall 
+	 ID: 34384248 
+	 Session Id: ac5f0780014844914b25e1adfae1f872 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=34384248&h=ac5f0780014844914b25e1adfae1f872&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 4: 
+	 Name: Engineering Analysis with ANSYS Software 
+	 ID: 185171757 
+	 Session Id: 99e4853e276e4e40601dac08985fe5c2 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=185171757&h=99e4853e276e4e40601dac08985fe5c2&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 5: 
+	 Name: Digital Principles and Logic Design  
+	 ID: 158438484 
+	 Session Id: 3cd21aadd966384bf55931609f67f971 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=158438484&h=3cd21aadd966384bf55931609f67f971&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 6: 
+	 Name: Compilers: Principles, Techniques, Tools 
+	 ID: 158432002 
+	 Session Id: 2cb493f366e6c2be5f755c378e310cec 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=158432002&h=2cb493f366e6c2be5f755c378e310cec&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 7: 
+	 Name: Fundamentals of Software Engineering 
+	 ID: 176020468 
+	 Session Id: 3188341194d686f5f3d4eca0fc88ccd3 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=176020468&h=3188341194d686f5f3d4eca0fc88ccd3&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 8: 
+	 Name: The Elements of Computing Systems: Building a Modern Computer from First Principles 
+	 ID: 164880794 
+	 Session Id: 87c6bd436df504df8cd00759a7428d29 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=164880794&h=87c6bd436df504df8cd00759a7428d29&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 9: 
+	 Name: Learn Keras for Deep Neural Networks: A Fast-Track Approach to Modern Deep Learning with Python 
+	 ID: 185770502 
+	 Session Id: b5e204bc896af00c4438f87da58c3d54 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=185770502&h=b5e204bc896af00c4438f87da58c3d54&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 10: 
+	 Name: Basics of precision engineering 
+	 ID: 158318322 
+	 Session Id: b17681e486ae95ac261b4b78065f750b 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=158318322&h=b17681e486ae95ac261b4b78065f750b&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 11: 
+	 Name: Foundations of Software Engineering 
+	 ID: 158427403 
+	 Session Id: 4f569fef7730bed13f385901e5e5e0d8 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=158427403&h=4f569fef7730bed13f385901e5e5e0d8&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 12: 
+	 Name: Software Engineering: Modern Approaches 
+	 ID: 186190229 
+	 Session Id: 23e843d5f5ae6f4ba4b2805e91ff7046 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=186190229&h=23e843d5f5ae6f4ba4b2805e91ff7046&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 34 
+
+
+
+Topic 6: Object- Oriented programming language 
+URL: https://www.pdfdrive.com/search?q=Object-+Oriented+programming+language&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Learning Python: powerful object-oriented programming 
+	 ID: 169780738 
+	 Session Id: 7f32a96b2ff3b4e7179c6136e8930803 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=169780738&h=7f32a96b2ff3b4e7179c6136e8930803&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 2: 
+	 Name: Object-Oriented Programming C++ Simplified 
+	 ID: 58675533 
+	 Session Id: c847567204fa5bd1eb37c1263c328704 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=58675533&h=c847567204fa5bd1eb37c1263c328704&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 3: 
+	 Name: Object-Oriented JavaScript 
+	 ID: 183900718 
+	 Session Id: 9c1f408dd5d962c71283b82d9c00827a 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=183900718&h=9c1f408dd5d962c71283b82d9c00827a&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 4: 
+	 Name: Beginning Programming with Python for Dummies 
+	 ID: 176211134 
+	 Session Id: 55c3657e9f1670e8251e31c24e0f4334 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=176211134&h=55c3657e9f1670e8251e31c24e0f4334&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 5: 
+	 Name: Learn PHP 7: Object Oriented Modular Programming using HTML5, CSS3, JavaScript, XML, JSON 
+	 ID: 175321455 
+	 Session Id: fb11c7ec8d43f8fd6b0185f71ef552b9 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=175321455&h=fb11c7ec8d43f8fd6b0185f71ef552b9&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 6: 
+	 Name: Java Program Design: Principles, Polymorphism, and Patterns 
+	 ID: 176175847 
+	 Session Id: 5aeda1cebbca1147d5e6913e75803a88 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=176175847&h=5aeda1cebbca1147d5e6913e75803a88&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 7: 
+	 Name: JavaScript: Object-Oriented Programming 
+	 ID: 184031569 
+	 Session Id: 97569d29edab0e6dd0d8074e262f3f98 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=184031569&h=97569d29edab0e6dd0d8074e262f3f98&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 8: 
+	 Name: The Object-Oriented Thought Process (4th Edition) 
+	 ID: 196801872 
+	 Session Id: 5c98861bfabfbdf96a1f0c81c20644b3 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=196801872&h=5c98861bfabfbdf96a1f0c81c20644b3&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 9: 
+	 Name: Object Oriented Programming using C Sharp 
+	 ID: 14618203 
+	 Session Id: 2842e5a712623153ffd37afc325ca109 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=14618203&h=2842e5a712623153ffd37afc325ca109&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 10: 
+	 Name: Advanced Object-Oriented Programming in R: Statistical Programming for Data Science, Analysis 
+	 ID: 181121235 
+	 Session Id: 9586843045df4aba5d800ba55ebfd020 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=181121235&h=9586843045df4aba5d800ba55ebfd020&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 12: 
+	 Name: Real-Time C++: Efficient Object-Oriented and Template Microcontroller Programming 2nd Edition 
+	 ID: 59949380 
+	 Session Id: 2292f863ea3e1da5993db83fcf7ea414 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=59949380&h=2292f863ea3e1da5993db83fcf7ea414&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 13: 
+	 Name: PHP: Learn PHP in 24 Hours or Less - A Beginner's Guide To Learning PHP Programming Now 
+	 ID: 187009432 
+	 Session Id: 86abe3084f59dc9fc6cd45c8f7f90fce 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=187009432&h=86abe3084f59dc9fc6cd45c8f7f90fce&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 46 
+
+ ********* Check point ************
+
+Topic 3: Systems analysis and Designs 
+URL: https://www.pdfdrive.com/search?q=Systems+analysis+and+Designs&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Power System Analysis and Design 
+	 ID: 39893261 
+	 Session Id: afc6dd6dc3445637a254001c09c9f7ee 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=39893261&h=afc6dd6dc3445637a254001c09c9f7ee&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 3: 
+	 Name: Wind and solar power systems: design, analysis, and operation 
+	 ID: 3383161 
+	 Session Id: 44a0ee80d031092825a842e3db4a8452 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=3383161&h=44a0ee80d031092825a842e3db4a8452&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 4: 
+	 Name: Analysis and Design of Control Systems using MATLAB 
+	 ID: 11630102 
+	 Session Id: 5b50f0ae893c1b7218c469b3aedd9d29 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=11630102&h=5b50f0ae893c1b7218c469b3aedd9d29&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 2 
+
+
+
+Topic 4: introduction to Operating System 
+URL: https://www.pdfdrive.com/search?q=introduction+to+Operating+System&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Introduction to Operations Research 
+	 ID: 14995994 
+	 Session Id: dd81a2bf8c2c5ed250753e2d9253375c 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=14995994&h=dd81a2bf8c2c5ed250753e2d9253375c&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 2: 
+	 Name: An Introduction to Vectors, Vector Operators and Vector Analysis 
+	 ID: 182285447 
+	 Session Id: fef2cfe148f5533231a368271bbeeb61 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=182285447&h=fef2cfe148f5533231a368271bbeeb61&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 3: 
+	 Name: Embedded Systems: Real-Time Operating Systems for Arm Cortex M Microcontrollers 
+	 ID: 157109961 
+	 Session Id: 83d6f803762f2ce35bdbd53712fe6c4f 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=157109961&h=83d6f803762f2ce35bdbd53712fe6c4f&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 4: 
+	 Name: Programming Robots with ROS: A Practical Introduction to the Robot Operating System 
+	 ID: 166617536 
+	 Session Id: 70efcbcb42c3377f99a2922e8b50ee69 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=166617536&h=70efcbcb42c3377f99a2922e8b50ee69&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 5 
+
+
+
+Topic 5: Software Engineering Principles 
+URL: https://www.pdfdrive.com/search?q=Software+Engineering+Principles&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Software Engineering: Principles and Practice 
+	 ID: 24634430 
+	 Session Id: 325e38f98da76d98b7ec5a8b32ffcf2c 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=24634430&h=325e38f98da76d98b7ec5a8b32ffcf2c&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 2: 
+	 Name: Agile Software Development, Principles, Patterns, and Practices 
+	 ID: 157786315 
+	 Session Id: 5d5f93128554f974acf62ba863ef97e8 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=157786315&h=5d5f93128554f974acf62ba863ef97e8&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 3: 
+	 Name: Software Engineering -Rajib-Mall 
+	 ID: 34384248 
+	 Session Id: ac5f0780014844914b25e1adfae1f872 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=34384248&h=ac5f0780014844914b25e1adfae1f872&u=cache&ext=pdf 
+	 Status: Success 
+
+ ********* Check point ************
+
+Topic 3: Systems analysis and Designs 
+URL: https://www.pdfdrive.com/search?q=Systems+analysis+and+Designs&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Power System Analysis and Design 
+	 ID: 39893261 
+	 Session Id: afc6dd6dc3445637a254001c09c9f7ee 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=39893261&h=afc6dd6dc3445637a254001c09c9f7ee&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 3: 
+	 Name: Wind and solar power systems: design, analysis, and operation 
+	 ID: 3383161 
+	 Session Id: 44a0ee80d031092825a842e3db4a8452 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=3383161&h=44a0ee80d031092825a842e3db4a8452&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 4: 
+	 Name: Analysis and Design of Control Systems using MATLAB 
+	 ID: 11630102 
+	 Session Id: 5b50f0ae893c1b7218c469b3aedd9d29 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=11630102&h=5b50f0ae893c1b7218c469b3aedd9d29&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 2 
+
+
+
+Topic 4: introduction to Operating System 
+URL: https://www.pdfdrive.com/search?q=introduction+to+Operating+System&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Introduction to Operations Research 
+	 ID: 14995994 
+	 Session Id: dd81a2bf8c2c5ed250753e2d9253375c 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=14995994&h=dd81a2bf8c2c5ed250753e2d9253375c&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 2: 
+	 Name: An Introduction to Vectors, Vector Operators and Vector Analysis 
+	 ID: 182285447 
+	 Session Id: fef2cfe148f5533231a368271bbeeb61 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=182285447&h=fef2cfe148f5533231a368271bbeeb61&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 3: 
+	 Name: Embedded Systems: Real-Time Operating Systems for Arm Cortex M Microcontrollers 
+	 ID: 157109961 
+	 Session Id: 83d6f803762f2ce35bdbd53712fe6c4f 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=157109961&h=83d6f803762f2ce35bdbd53712fe6c4f&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 4: 
+	 Name: Programming Robots with ROS: A Practical Introduction to the Robot Operating System 
+	 ID: 166617536 
+	 Session Id: 70efcbcb42c3377f99a2922e8b50ee69 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=166617536&h=70efcbcb42c3377f99a2922e8b50ee69&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 6 
+
+
+
+Topic 5: Software Engineering Principles 
+URL: https://www.pdfdrive.com/search?q=Software+Engineering+Principles&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Software Engineering: Principles and Practice 
+	 ID: 24634430 
+	 Session Id: 325e38f98da76d98b7ec5a8b32ffcf2c 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=24634430&h=325e38f98da76d98b7ec5a8b32ffcf2c&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 2: 
+	 Name: Agile Software Development, Principles, Patterns, and Practices 
+	 ID: 157786315 
+	 Session Id: 5d5f93128554f974acf62ba863ef97e8 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=157786315&h=5d5f93128554f974acf62ba863ef97e8&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 3: 
+	 Name: Software Engineering -Rajib-Mall 
+	 ID: 34384248 
+	 Session Id: ac5f0780014844914b25e1adfae1f872 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=34384248&h=ac5f0780014844914b25e1adfae1f872&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 4: 
+	 Name: Engineering Analysis with ANSYS Software 
+	 ID: 185171757 
+	 Session Id: 99e4853e276e4e40601dac08985fe5c2 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=185171757&h=99e4853e276e4e40601dac08985fe5c2&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 10 
+
+ ********* Check point ************
+
+Topic 3: Systems analysis and Designs 
+URL: https://www.pdfdrive.com/search?q=Systems+analysis+and+Designs&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Power System Analysis and Design 
+	 ID: 39893261 
+	 Session Id: afc6dd6dc3445637a254001c09c9f7ee 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=39893261&h=afc6dd6dc3445637a254001c09c9f7ee&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 3: 
+	 Name: Wind and solar power systems: design, analysis, and operation 
+	 ID: 3383161 
+	 Session Id: 44a0ee80d031092825a842e3db4a8452 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=3383161&h=44a0ee80d031092825a842e3db4a8452&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 4: 
+	 Name: Analysis and Design of Control Systems using MATLAB 
+	 ID: 11630102 
+	 Session Id: 5b50f0ae893c1b7218c469b3aedd9d29 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=11630102&h=5b50f0ae893c1b7218c469b3aedd9d29&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 3 
+
+
+
+Topic 4: introduction to Operating System 
+URL: https://www.pdfdrive.com/search?q=introduction+to+Operating+System&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Introduction to Operations Research 
+	 ID: 14995994 
+	 Session Id: dd81a2bf8c2c5ed250753e2d9253375c 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=14995994&h=dd81a2bf8c2c5ed250753e2d9253375c&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 2: 
+	 Name: An Introduction to Vectors, Vector Operators and Vector Analysis 
+	 ID: 182285447 
+	 Session Id: fef2cfe148f5533231a368271bbeeb61 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=182285447&h=fef2cfe148f5533231a368271bbeeb61&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 3: 
+	 Name: Embedded Systems: Real-Time Operating Systems for Arm Cortex M Microcontrollers 
+	 ID: 157109961 
+	 Session Id: 83d6f803762f2ce35bdbd53712fe6c4f 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=157109961&h=83d6f803762f2ce35bdbd53712fe6c4f&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 4: 
+	 Name: Programming Robots with ROS: A Practical Introduction to the Robot Operating System 
+	 ID: 166617536 
+	 Session Id: 70efcbcb42c3377f99a2922e8b50ee69 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=166617536&h=70efcbcb42c3377f99a2922e8b50ee69&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 7 
+
+
+
+Topic 5: Software Engineering Principles 
+URL: https://www.pdfdrive.com/search?q=Software+Engineering+Principles&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Software Engineering: Principles and Practice 
+	 ID: 24634430 
+	 Session Id: 325e38f98da76d98b7ec5a8b32ffcf2c 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=24634430&h=325e38f98da76d98b7ec5a8b32ffcf2c&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 2: 
+	 Name: Agile Software Development, Principles, Patterns, and Practices 
+	 ID: 157786315 
+	 Session Id: 5d5f93128554f974acf62ba863ef97e8 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=157786315&h=5d5f93128554f974acf62ba863ef97e8&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 3: 
+	 Name: Software Engineering -Rajib-Mall 
+	 ID: 34384248 
+	 Session Id: ac5f0780014844914b25e1adfae1f872 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=34384248&h=ac5f0780014844914b25e1adfae1f872&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 4: 
+	 Name: Engineering Analysis with ANSYS Software 
+	 ID: 185171757 
+	 Session Id: 99e4853e276e4e40601dac08985fe5c2 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=185171757&h=99e4853e276e4e40601dac08985fe5c2&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 11 
+
+ ********* Check point ************
+
+Topic 3: Systems analysis and Designs 
+URL: https://www.pdfdrive.com/search?q=Systems+analysis+and+Designs&pagecount=100-*&pubyear=2016&searchin=en 
+
+ ********* Check point ************
+
+Topic 3: Systems analysis and Designs 
+URL: https://www.pdfdrive.com/search?q=Systems+analysis+and+Designs&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Power System Analysis and Design 
+	 ID: 39893261 
+	 Session Id: afc6dd6dc3445637a254001c09c9f7ee 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=39893261&h=afc6dd6dc3445637a254001c09c9f7ee&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 3: 
+	 Name: Wind and solar power systems: design, analysis, and operation 
+	 ID: 3383161 
+	 Session Id: 44a0ee80d031092825a842e3db4a8452 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=3383161&h=44a0ee80d031092825a842e3db4a8452&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 2 
+
+
+
+Topic 4: introduction to Operating System 
+URL: https://www.pdfdrive.com/search?q=introduction+to+Operating+System&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Introduction to Operations Research 
+	 ID: 14995994 
+	 Session Id: dd81a2bf8c2c5ed250753e2d9253375c 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=14995994&h=dd81a2bf8c2c5ed250753e2d9253375c&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 2: 
+	 Name: An Introduction to Vectors, Vector Operators and Vector Analysis 
+	 ID: 182285447 
+	 Session Id: fef2cfe148f5533231a368271bbeeb61 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=182285447&h=fef2cfe148f5533231a368271bbeeb61&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 3: 
+	 Name: Embedded Systems: Real-Time Operating Systems for Arm Cortex M Microcontrollers 
+	 ID: 157109961 
+	 Session Id: 83d6f803762f2ce35bdbd53712fe6c4f 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=157109961&h=83d6f803762f2ce35bdbd53712fe6c4f&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 5 
+
+
+
+Topic 5: Software Engineering Principles 
+URL: https://www.pdfdrive.com/search?q=Software+Engineering+Principles&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Software Engineering: Principles and Practice 
+	 ID: 24634430 
+	 Session Id: 325e38f98da76d98b7ec5a8b32ffcf2c 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=24634430&h=325e38f98da76d98b7ec5a8b32ffcf2c&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 2: 
+	 Name: Agile Software Development, Principles, Patterns, and Practices 
+	 ID: 157786315 
+	 Session Id: 5d5f93128554f974acf62ba863ef97e8 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=157786315&h=5d5f93128554f974acf62ba863ef97e8&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 3: 
+	 Name: Software Engineering -Rajib-Mall 
+	 ID: 34384248 
+	 Session Id: ac5f0780014844914b25e1adfae1f872 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=34384248&h=ac5f0780014844914b25e1adfae1f872&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 8 
+
+ ********* Check point ************
+
+Topic 3: Systems analysis and Designs 
+URL: https://www.pdfdrive.com/search?q=Systems+analysis+and+Designs&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Power System Analysis and Design 
+	 ID: 39893261 
+	 Session Id: afc6dd6dc3445637a254001c09c9f7ee 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=39893261&h=afc6dd6dc3445637a254001c09c9f7ee&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 3: 
+	 Name: Wind and solar power systems: design, analysis, and operation 
+	 ID: 3383161 
+	 Session Id: 44a0ee80d031092825a842e3db4a8452 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=3383161&h=44a0ee80d031092825a842e3db4a8452&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 2 
+
+Total Number of Books Skiped: 1 
+
+
+
+Topic 4: introduction to Operating System 
+URL: https://www.pdfdrive.com/search?q=introduction+to+Operating+System&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Introduction to Operations Research 
+	 ID: 14995994 
+	 Session Id: dd81a2bf8c2c5ed250753e2d9253375c 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=14995994&h=dd81a2bf8c2c5ed250753e2d9253375c&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 2: 
+	 Name: An Introduction to Vectors, Vector Operators and Vector Analysis 
+	 ID: 182285447 
+	 Session Id: fef2cfe148f5533231a368271bbeeb61 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=182285447&h=fef2cfe148f5533231a368271bbeeb61&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 3: 
+	 Name: Embedded Systems: Real-Time Operating Systems for Arm Cortex M Microcontrollers 
+	 ID: 157109961 
+	 Session Id: 83d6f803762f2ce35bdbd53712fe6c4f 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=157109961&h=83d6f803762f2ce35bdbd53712fe6c4f&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 5 
+
+Total Number of Books Skiped: 1 
+
+
+
+Topic 5: Software Engineering Principles 
+URL: https://www.pdfdrive.com/search?q=Software+Engineering+Principles&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Software Engineering: Principles and Practice 
+	 ID: 24634430 
+	 Session Id: 325e38f98da76d98b7ec5a8b32ffcf2c 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=24634430&h=325e38f98da76d98b7ec5a8b32ffcf2c&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 2: 
+	 Name: Agile Software Development, Principles, Patterns, and Practices 
+	 ID: 157786315 
+	 Session Id: 5d5f93128554f974acf62ba863ef97e8 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=157786315&h=5d5f93128554f974acf62ba863ef97e8&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 3: 
+	 Name: Software Engineering -Rajib-Mall 
+	 ID: 34384248 
+	 Session Id: ac5f0780014844914b25e1adfae1f872 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=34384248&h=ac5f0780014844914b25e1adfae1f872&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 8 
+
+Total Number of Books Skiped: 1 
+
+ ********* Check point ************
+
+Topic 3: Systems analysis and Designs 
+URL: https://www.pdfdrive.com/search?q=Systems+analysis+and+Designs&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Power System Analysis and Design 
+	 ID: 39893261 
+	 Session Id: afc6dd6dc3445637a254001c09c9f7ee 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=39893261&h=afc6dd6dc3445637a254001c09c9f7ee&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 3: 
+	 Name: Wind and solar power systems: design, analysis, and operation 
+	 ID: 3383161 
+	 Session Id: 44a0ee80d031092825a842e3db4a8452 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=3383161&h=44a0ee80d031092825a842e3db4a8452&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 2 
+Total Number of Books Skiped: 1 
+
+
+
+Topic 4: introduction to Operating System 
+URL: https://www.pdfdrive.com/search?q=introduction+to+Operating+System&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Introduction to Operations Research 
+	 ID: 14995994 
+	 Session Id: dd81a2bf8c2c5ed250753e2d9253375c 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=14995994&h=dd81a2bf8c2c5ed250753e2d9253375c&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 2: 
+	 Name: An Introduction to Vectors, Vector Operators and Vector Analysis 
+	 ID: 182285447 
+	 Session Id: fef2cfe148f5533231a368271bbeeb61 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=182285447&h=fef2cfe148f5533231a368271bbeeb61&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 3: 
+	 Name: Embedded Systems: Real-Time Operating Systems for Arm Cortex M Microcontrollers 
+	 ID: 157109961 
+	 Session Id: 83d6f803762f2ce35bdbd53712fe6c4f 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=157109961&h=83d6f803762f2ce35bdbd53712fe6c4f&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 5 
+Total Number of Books Skiped: 1 
+
+
+
+Topic 5: Software Engineering Principles 
+URL: https://www.pdfdrive.com/search?q=Software+Engineering+Principles&pagecount=100-*&pubyear=2016&searchin=en 
+
+Book 1: 
+	 Name: Software Engineering: Principles and Practice 
+	 ID: 24634430 
+	 Session Id: 325e38f98da76d98b7ec5a8b32ffcf2c 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=24634430&h=325e38f98da76d98b7ec5a8b32ffcf2c&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 2: 
+	 Name: Agile Software Development, Principles, Patterns, and Practices 
+	 ID: 157786315 
+	 Session Id: 5d5f93128554f974acf62ba863ef97e8 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=157786315&h=5d5f93128554f974acf62ba863ef97e8&u=cache&ext=pdf 
+	 Status: Success 
+
+Book 3: 
+	 Name: Software Engineering -Rajib-Mall 
+	 ID: 34384248 
+	 Session Id: ac5f0780014844914b25e1adfae1f872 
+	 Download URL: https://www.pdfdrive.com/download.pdf?id=34384248&h=ac5f0780014844914b25e1adfae1f872&u=cache&ext=pdf 
+	 Status: Success 
+
+Total Number of Books: 8 
+Total Number of Books Skiped: 1 
+
